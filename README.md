@@ -1,5 +1,6 @@
 ### Hello こにちわ 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazeOP374&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -8,6 +9,7 @@
 - 🌱 I’m currently learning C#/unity/React
 - 🤔 I’m looking for help with Null
 - 📫 How to reach me: melodietashacx401@gmail.com
+- [![Twitter](https://img.shields.io/twitter/follow/DrShenYi?style=social)](https://twitter.com/intent/follow?screen_name=DrShenYi)//
 
 
 - # [ 我是一个二次元](https://zh.m.wikipedia.org/zh-hans/ACG)
@@ -21,6 +23,9 @@
 - I'm waiting for death.<br>
 - I wish everyone died.<br>
 - So this world is belongs to me.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazeOP374&hide=contribs,issues)
-#
+ 
+##
+  
+  
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
