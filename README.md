@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning C#/unity/React
 - 🤔 I’m looking for help with Null
 - 📫 How to reach me: melodietashacx401@gmail.com
-- [![Twitter](https://img.shields.io/twitter/follow/DrShenYi?style=social)](https://twitter.com/intent/follow?screen_name=DrShenYi)//
+- [![Twitter](https://img.shields.io/twitter/follow/DrShenYi?style=social)](https://twitter.com/intent/follow?screen_name=DrShenYi)
 
 
 - # [ 我是一个二次元](https://zh.m.wikipedia.org/zh-hans/ACG)
