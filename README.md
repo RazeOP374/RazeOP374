@@ -22,5 +22,5 @@
 - I wish everyone died.<br>
 - So this world is belongs to me.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raze9&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazeOP374&hide=contribs,issues)
 #
