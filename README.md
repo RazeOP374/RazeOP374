@@ -4,7 +4,6 @@
 
 
 
-- 🔭 I’m currently working on Go
 - 🌱 I’m currently learning C#/unity/React
 - 🤔 I’m looking for help with Null
 - 📫 How to reach me: melodietashacx401@gmail.com
@@ -26,3 +25,4 @@
 ##
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazeOP374&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Last updated: Updated on {date}
