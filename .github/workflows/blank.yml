@@ -12,6 +12,6 @@ jobs:
       - name: Update timestamp
         run: sed -i "s/{{DATE}}/$(date +'%Y-%m-%d %H:%M:%S')/g" README.md
       - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: anmol098/waka-readme-stats@master
         with:
           commit_message: "Update timestamp"
