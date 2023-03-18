@@ -26,9 +26,6 @@
 ##
 
 <!--START_SECTION:waka-->
-```text
 
-⌚︎ Timezone: Asia/Calcutta
-```
 
 <!--END_SECTION:waka-->
