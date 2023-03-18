@@ -27,4 +27,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazeOP374&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ##
 
-{{DATE}}
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
