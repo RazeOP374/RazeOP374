@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning C#/unity/React
+- 🌱 I’m currently learning RUST/React
 - 🤔 I’m looking for help with Null
 - 📫 How to reach me: melodietashacx401@gmail.com
 
