@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning RUST/React/Opencv
-- 🤔 I’m looking for help with Null
+- 🤔 I’m looking for help with audio and video decoding
 - 📫 How to reach me: melodietashacx401@gmail.com
 
 - # [ 我是一个二次元](https://zh.m.wikipedia.org/zh-hans/ACG)
