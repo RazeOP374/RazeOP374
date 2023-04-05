@@ -3,7 +3,7 @@
 
 
  
-
+ 
 - 🌱 I’m currently learning RUST/React/Opencv
 - 🤔 I’m looking for help with audio and video decoding
 - 📫 How to reach me: melodietashacx401@gmail.com
