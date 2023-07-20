@@ -13,7 +13,7 @@
 - 我在等待着死亡的那一天到来<br>
 - 我许愿所有人都死光<br>
 - 这个世界就属于我一个人的了<br>
-
+ 
 
 - NO dream  NO future.<br>
 - I'm waiting for death.<br>
